@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Aranya dev 👋
 
-<!--
-**aranyadev-art/aranyadev-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | API Testing | Selenium | GitHub Actions CI
 
-Here are some ideas to get you started:
+I am a QA Automation Engineer with hands-on experience in Manual Testing, API Testing, Selenium WebDriver (Java), Postman & Newman automation, and GitHub Actions CI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+* Selenium WebDriver (Java)
+* Postman & Newman
+* REST API Testing
+* GitHub Actions (CI)
+* JavaScript Assertions
+* MySQL
+* Git & GitHub
+* React.js, Node.js, Express.js, MongoDB
+* Docker & Docker Compose
+
+### Featured Projects
+
+* Project-07: API Automation with Postman + Newman + GitHub Actions CI
+* Enterprise MERN CRM Testing & Automation
+* Amazon E-commerce Testing Portfolio (73 Test Cases, 4 Bugs, 14 Enhancement Reports)
+
+### What I Built
+
+* Automated CRUD API regression using Newman
+* Generated HTML execution reports
+* Integrated API automation with GitHub Actions
+* Implemented Docker-based MERN environment setup
+* Created reusable Selenium Page Object Model test scripts
+
+### Connect With Me
+
+* LinkedIn: (add your LinkedIn URL)
+* Email: (add your email)
