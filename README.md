@@ -32,5 +32,5 @@ I am a QA Automation Engineer with hands-on experience in Manual Testing, API Te
 
 ### Connect With Me
 
-* LinkedIn: (add your LinkedIn URL)
-* Email: (add your email)
+* LinkedIn: ([Aranya dev] https://www.linkedin.com/in/aranya-dev-612a97341?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* Email: (2906dev@gmail.com)
